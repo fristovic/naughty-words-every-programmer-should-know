@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cover.png" alt="Book cover" width="400">
+  <img src="./cover.png" alt="Book cover" width="700">
 </p>
 
 # Naughty Words Every Programmer Should Know
