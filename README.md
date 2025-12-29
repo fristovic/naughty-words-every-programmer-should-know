@@ -1,3 +1,5 @@
+![Book cover](./cover.png)
+
 # Naughty Words Every Programmer Should Know
 
 Whether you’re a junior dev trying to avoid rookie mistakes or a seasoned engineer who’s sick of process theater, this book will give you the tools-and the laughs-to build better code without losing your mind.
