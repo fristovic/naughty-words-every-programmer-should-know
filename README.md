@@ -6,9 +6,8 @@
 
 **Naughty Words Every Programmer Should Know** rips the plastic wrap off software development’s most overused principles and repackages them as unforgettable, slightly NSFW acronyms you’ll actually remember.
 
-📘 **Free PDF download**  
-➡️ [Download the book](./Naughty_Words_Every_Programmer_Should_Know.pdf)
-
+📘 **Download the eBook for FREE**  
+➡️ [PDF](./Naughty_Words_Every_Programmer_Should_Know.pdf) | [ePub](./Naughty_Words_Every_Programmer_Should_Know.epub)
 ---
 
 ## What’s inside?
