@@ -11,27 +11,17 @@
 ---
 
 ## What’s inside?
-- No-BS explanations of real engineering principles  
-- War stories from actual projects (the kind you don’t hear at conferences)
-- Honest takes on why some “best practices” quietly destroy codebases
-- Practical advice for writing software that survives contact with reality
+- A good read
 
 ---
 
 ## Who is this for?
-- Junior developers trying to avoid painful rookie mistakes
-- Mid-level devs drowning in process theater
-- Senior engineers who’ve seen things and are tired of pretending otherwise
+- Everyone on every level of engineering prowess 
 
 ---
 
 ## Why this book exists
-Most programming advice is:
-- Over-sanitized
-- Over-abstracted
-- Under-tested in the real world
-
-This book exists to say the quiet parts out loud — with humor, clarity, and zero corporate polish.
+- To say how it is with humor, clarity, and zero corporate polish
 
 ---
 
@@ -42,6 +32,16 @@ Contains:
 - A high chance of spontaneous nodding across your dev team
 
 Read responsibly.
+
+---
+
+## Book reviews
+
+### What others said about the book
+
+<p align="center">
+  <img src="./reviews/skim_while_pooping.png" alt="Book review" width="700">
+</p>
 
 ---
 
