@@ -13,12 +13,8 @@
 ## What’s inside?
 - A good read
 
----
-
 ## Who is this for?
 - Everyone on every level of engineering prowess 
-
----
 
 ## Why this book exists
 - To say how it is with humor, clarity, and zero corporate polish
@@ -26,9 +22,6 @@
 ---
 
 ## ⚠️⚠️⚠️ Warning
-Contains:
-- Strong language
-- Stronger opinions
 - A high chance of spontaneous nodding across your dev team
 
 Read responsibly.
@@ -37,10 +30,14 @@ Read responsibly.
 
 ## Book reviews
 
-### What others said about the book
+### What others said about the book:
 
 <p align="center">
   <img src="./reviews/skim_while_pooping.png" alt="Book review" width="700">
+</p>
+
+<p align="center">
+  <img src="./reviews/just_read_the_glossary.png" alt="Book review" width="700">
 </p>
 
 ---
